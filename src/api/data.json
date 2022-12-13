@@ -1,0 +1,64 @@
+{
+"posts":  [
+    {
+      "char_id": 1,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho1.png",
+      "Descripcion": "" 
+      },
+    {
+      "char_id": 2,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho2.png",
+      "Descripcion": "" 
+    },
+      {
+      "char_id": 3,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho3.png",
+      "Descripcion": "" 
+    },
+      {
+      "char_id": 4,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho4.png",
+      "Descripcion": "" 
+    },
+       {
+      "char_id": 5,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho5.png",
+      "Descripcion": "" 
+    },
+        {
+      "char_id": 6,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho6.png",
+      "Descripcion": "" 
+    },
+        {
+      "char_id": 7,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho7.png",
+      "Descripcion": "" 
+    },
+        {
+      "char_id": 8,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho8.png",
+      "Descripcion": "" 
+    },
+        {
+      "char_id": 9,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho9.png",
+      "Descripcion": "" 
+    },
+        {
+      "char_id": 10,
+      "name": "Derechos Fundamentales de los Niños",
+      "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho10.png",
+      "Descripcion": "" 
+    }
+  ]
+}
