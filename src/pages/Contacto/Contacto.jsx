@@ -3,7 +3,6 @@ import Header from "../../components/Header/header";
 import Footer from "../../components/Footer/footer";
 
 
-
 function Contacto() {
   return (
     <div>
@@ -18,11 +17,11 @@ function Contacto() {
       <form>
         <label>
           <p>Nombre</p>
-          <input type="text" name="nombre" />
+          <input class="nombre" type="text" name="nombre" />
           <p>Apellido</p>
-          <input type="text" name="apellido" />
+          <input class="apellido" type="text" name="apellido" />
           <p>Asunto</p>
-          <input type="text" name="asunto" />
+          <input class="asunto" type="text" name="asunto" />
           <p>Mensaje</p>
           <textarea>
           </textarea>
