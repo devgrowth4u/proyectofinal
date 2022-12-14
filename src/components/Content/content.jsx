@@ -15,9 +15,7 @@ function content() {
             </center>          
             <center>
                 <h4 class="titulo"> Conoce los derechos de Niño a través de estas cartas </h4>
-            </center>     
-
-           
+            </center>                
         </div>
      </div>
 
