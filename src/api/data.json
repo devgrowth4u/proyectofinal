@@ -1,64 +1,76 @@
 {
 "posts":  [
+  [
     {
       "char_id": 1,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho1.png",
-      "Descripcion": "" 
-      },
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino1.png",
+      "Descripcion": "1 Derecho a la igualdad, sin discriminacion de raza, religión o nacionalidad" 
+    },
     {
       "char_id": 2,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho2.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino2.png",
+      "Descripcion": "2 Derecho a una protección especial para que puedan crecer fisica, mental y socialmente sanos y libres"
     },
       {
       "char_id": 3,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho3.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino3.png",
+      "Descripcion": "3 Derecho a tener un nombre y una nacionalidad"
     },
       {
       "char_id": 4,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho4.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho4.png",
+      "Descripcion": "4 Derecho a una alimentación, vivienda y atención médica adecuadas."
     },
        {
       "char_id": 5,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho5.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino5.png",
+      "Descripcion": "5 Derecho a educación atenciones especiales para los niños y niñas con discapacidad"
     },
         {
       "char_id": 6,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho6.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino6.png",
+      "Descripcion": "6 Derecho a comprensioón amor por parte de las familias y de la sociedad."
     },
         {
       "char_id": 7,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho7.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino7.png",
+      "Descripcion": "7 Derecho a una educación gratuita. Derecho a divertirse y jugar"
     },
         {
       "char_id": 8,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho8.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino8.png",
+      "Descripcion": "8 Derecho a atención y ayuda preferentes en caso de peligro"
     },
         {
       "char_id": 9,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho9.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino9.png",
+      "Descripcion": "9 Derecho a ser protegido contra el abandino y el trabajo infantil"
     },
         {
       "char_id": 10,
       "name": "Derechos Fundamentales de los Niños",
       "img": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Derecho10.png",
-      "Descripcion": "" 
+      "img2": "http://desarrollo.ciudaddelnino.cl/ws_ticket/Derechos/Quino10.png",
+      "Descripcion": "10 Derecho a recibir una educación que fomente la solidaridad, la amistad y la justicia entre todo el mundo"
     }
+  ]
   ]
 }
