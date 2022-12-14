@@ -11,7 +11,13 @@ function Home() {
       <Header/>
       <Carousell />
       <Content/>
-      <Cards />
+      <div id="cartas" className="cards">
+          <div className="container cards">
+              <div className="row">
+                  <Cards />
+              </div>
+            </div>
+        </div>
       <Footer/>
   </div>
   );

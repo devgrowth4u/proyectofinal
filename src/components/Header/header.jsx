@@ -16,7 +16,7 @@ const header = () => {
                                 <ul className="nav nav-pills">
                                         <li  className="nav-item"> <NavLink className="btn btn-outline-primary me-3" aria-current="page" to="/">Home</NavLink></li>
                                         <li  className="nav-item"> <NavLink className="nav-link" to="/Contacto">Contacto</NavLink></li>
-                                        <li  className="nav-item"> <NavLink className="nav-link" to="/cards">Derechos de los Niños</NavLink></li>
+                                        <li  className="nav-item"> <NavLink className="nav-link" to="/Cards">Derechos de los Niños</NavLink></li>
 
                                 </ul>
                         </div> 

@@ -1,15 +1,30 @@
 import React from "react";
 import Header from "../../components/Header/header";
-import Cards from "../../components/Cards/cards";
+import Card from "../../components/Cards/card";
 import Footer from "../../components/Footer/footer";
 
 function CartasDerechos() {
     return (
-      <div>
+      <>
         <Header/>
-        <Cards />
+        <div className="cards">
+          <div className="container">
+              <div className="row">
+                <div className="col-md-4">
+                  <Card />
+                </div>
+                <div className="col-md-4">
+                  <Card />
+                </div>
+                <div className="col-md-4">
+                  <Card />
+                </div>
+              </div>
+            </div>
+        </div>
+
         <Footer/>
-    </div>
+    </>
     );
   }
   export default CartasDerechos;

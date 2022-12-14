@@ -12,7 +12,10 @@ function content() {
         
             <center>
                 <h1 class="bienvenida"> Bienvenidos </h1>
-            </center>            
+            </center>          
+            <center>
+                <h4 class="titulo"> Conoce los derechos de Niño a través de estas cartas </h4>
+            </center>     
 
            
         </div>

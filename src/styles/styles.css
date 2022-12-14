@@ -68,7 +68,73 @@ h4 {
   justify-content: flex-end;
 }
 
+#cartas {
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  margin-top: 20px;
+
+}
+
+.cards {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  border-radius: 5px;
+  box-shadow: 0 7px 10px rgba(100, 100, 100, 0.5);
+}
+
+.card-title {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
 
 
+@media (min-width: 20em) {
+  #cartas {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+}
+@media (min-width: 40em) {
+  #cartas {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
 
+}
+@media (min-width: 60em) {
+  #cartas {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+
+}
   
