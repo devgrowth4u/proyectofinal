@@ -1,30 +1,30 @@
-import React from "react";
-import Header from "../../components/Header/header";
-import Card from "../../components/Cards/card";
+import React from "react";import Header 
+from "../../components/Header/header";
+
 import Footer from "../../components/Footer/footer";
 
-function CartasDerechos() {
-    return (
+import Cards from "../../components/Cards/cards";
+
+
+
+function Card() {
+
+  return (
       <>
-        <Header/>
-        <div className="cards">
-          <div className="container">
-              <div className="row">
-                <div className="col-md-4">
-                  <Card />
-                </div>
-                <div className="col-md-4">
-                  <Card />
-                </div>
-                <div className="col-md-4">
-                  <Card />
+              <Header/>
+              <div id="cartas" className="cards">
+              <div className="container cards">
+                  <div className="row">
+                      <Cards />
+                  </div>
+                  
                 </div>
               </div>
-            </div>
-        </div>
+              <Footer />
+          
 
-        <Footer/>
-    </>
-    );
-  }
-  export default CartasDerechos;
+      </>
+  )
+}
+
+export default Card;

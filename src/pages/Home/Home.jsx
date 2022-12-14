@@ -3,7 +3,7 @@ import Header from "../../components/Header/header";
 import Content from "../../components/Content/content";
 import Footer from "../../components/Footer/footer";
 import Carousell from "../../components/Carousel/carousell";
-import Cards from "../../components/Cards/cards";
+import Cardss from "../../components/Cards/card";
 
 function Home() {
   return (
@@ -11,13 +11,9 @@ function Home() {
       <Header/>
       <Carousell />
       <Content/>
-      <div id="cartas" className="cards">
-          <div className="container cards">
-              <div className="row">
-                  <Cards />
-              </div>
-            </div>
-        </div>
+      <Cardss/>
+        <h3 className="titulo 2 col-md-12">Estamos en diez regiones, ejecutando más de un centenar de programas en nuestras tres áreas de trabajo.</h3>
+      
       <Footer/>
   </div>
   );
