@@ -1,8 +1,5 @@
 import React from "react";
-//import axios from "axios";
-//import React, { useState } from 'react';
-//import Carousel from 'react-bootstrap/Carousel';
-//import data from "../../api/data.json";
+
 
 
 function content() {

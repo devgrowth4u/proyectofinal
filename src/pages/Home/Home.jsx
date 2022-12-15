@@ -1,10 +1,10 @@
 import React from "react";
 import Header from "../../components/Header/header";
-import Content from "../../components/Content/content";
-import Footer from "../../components/Footer/footer";
 import Carousell from "../../components/Carousel/carousell";
-import Cardss from "../../components/Cards/card";
+import Content from "../../components/Content/content";
 import Video from "../../components/Content/video";
+import Cardss from "../../components/Cards/card";
+import Footer from "../../components/Footer/footer";
 
 function Home() {
   return (
