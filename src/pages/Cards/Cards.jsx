@@ -1,26 +1,25 @@
-import React from "react";
-import Header from "../../components/Header/header";
-import Cards from "../../components/Cards/cards";
+import React from "react";import Header 
+from "../../components/Header/header";
+
 import Footer from "../../components/Footer/footer";
+import data from "../../api/data.json";
+import Cardfundamento from "../../components/Cards/Cardfundamento";
+
 
 
 
 function Card() {
-
+  const posts=data.posts;
+ 
   return (
       <>
-              <Header/>
-              <div id="cartas" className="cards">
-              <div className="container cards">
-                  <div className="row">
-                      <Cards />
-                  </div>
-                  
-                </div>
-              </div>
-              <Footer />
-          
-
+        <Header/>
+      <div className="container">
+            
+             <Cardfundamento/>
+            
+      </div>  
+      <Footer />    
       </>
   )
 }
