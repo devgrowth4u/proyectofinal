@@ -21,7 +21,7 @@ function Cardfundamento() {
      <h3> 10 derechos fundamentales de los niños, por Quino / Unesco </h3>
     <div className="row row-cols-1 row-cols-md-2">    
    {  data.map((posData) => (      
-      <Card_bootsrapt style={{ width: '18rem' }}>     
+      <Card_bootsrapt style={{ width: '18rem', margin:  '10px' }}>     
             <Card_bootsrapt.Img  variant="top" src={posData.imagen}  /> 
             <Card_bootsrapt.Body>  
               <hr></hr>              
